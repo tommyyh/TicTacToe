@@ -1,0 +1,10 @@
+.board {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 33.333333% 33.333333% 33.333333%);
+
+  width: 32.5rem;
+  height: 32.5rem;
+  margin: 2.5rem 0 0 0;
+
+  border: 1px solid #fff;
+}
